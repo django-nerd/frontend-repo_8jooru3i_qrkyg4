@@ -23,7 +23,7 @@ function Hero() {
             I craft modern, responsive websites that convert
           </h1>
           <p className="mt-4 text-base md:text-lg text-slate-200/90 max-w-2xl">
-            Hi, I’m your full‑stack web partner. From concept to launch — design, development, and ongoing care in one place.
+            Hi, I’m <span className="font-semibold text-white">Subhan Irfan</span> — your full‑stack web partner. From concept to launch — design, development, and ongoing care in one place.
           </p>
 
           <div className="mt-8 flex flex-col sm:flex-row gap-3">

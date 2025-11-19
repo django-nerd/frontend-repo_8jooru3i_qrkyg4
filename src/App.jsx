@@ -32,7 +32,7 @@ function App() {
 
       <footer className="py-10 border-t border-white/10 bg-slate-950">
         <div className="max-w-6xl mx-auto px-6 text-sm text-slate-400 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Subhan Irfan. All rights reserved.</p>
           <p className="opacity-70">Built with love and modern web tooling.</p>
         </div>
       </footer>

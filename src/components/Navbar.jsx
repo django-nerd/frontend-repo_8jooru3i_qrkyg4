@@ -5,7 +5,7 @@ function Navbar() {
     <header className="fixed top-0 inset-x-0 z-50">
       <div className="mx-auto max-w-6xl px-6 py-4">
         <div className="flex items-center justify-between rounded-xl border border-white/10 bg-slate-900/70 backdrop-blur-lg px-4 py-3">
-          <a href="#home" className="text-white font-semibold tracking-tight">Your Name</a>
+          <a href="#home" className="text-white font-semibold tracking-tight">Subhan Irfan</a>
           <nav className="hidden md:flex items-center gap-6 text-slate-200">
             <a href="#services" className="hover:text-white transition">Services</a>
             <a href="#work" className="hover:text-white transition">Work</a>
